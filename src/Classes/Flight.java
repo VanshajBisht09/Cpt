@@ -1,10 +1,4 @@
-/**
- * Class Name : Flight
- * @author Madhushi
- * Purpose : To maintain information about a flight. The maintained information are
- *           the flight number, departure date,departure airport,
- *           destination airport, departure time, arrival time and the flight sections.
- */
+
 
 package Classes;
 

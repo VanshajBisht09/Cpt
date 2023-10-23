@@ -8,10 +8,6 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Madhushi
- */
 public class SystemManager {
    
     private String inputFile;       //the file contains all details    
@@ -128,7 +124,6 @@ public class SystemManager {
         
     }
     
-    //This Method reads all airlineDetails from the relevant inputFile and writes them in an array
     public final void readAirLineDetails(){
         
         Airline[] airline = new Airline[5];

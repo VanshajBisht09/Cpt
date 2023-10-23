@@ -4,11 +4,6 @@ import java.text.SimpleDateFormat;
 import java.util.Arrays;
 import java.util.Calendar;
 import java.util.GregorianCalendar;
-
-/**
- *
- * @author Madhushi
- */
 public class Reservation {
     private int reservationNumber;
     private int numberOfPassengers;

@@ -1,9 +1,5 @@
 package Classes;
 
-/**
- *
- * @author Madhushi
- */
 public class Seat {
     private String seatID;    //rowNumber+columnCharacter
     private boolean status; //shows whether a seat is booked or not; true if reserved

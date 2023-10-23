@@ -1,9 +1,4 @@
 package Classes;
-
-/**
- *
- * @author new
- */
 public class Name {
     private String firstName;
     private String lastName;

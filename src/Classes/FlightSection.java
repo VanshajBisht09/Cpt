@@ -1,9 +1,4 @@
- package Classes;
-
-/**
- *
- * @author Madhushi
- */
+package Classes;
 public class FlightSection {
 
     private SeatClass seatClass;
